@@ -1,0 +1,192 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    letter-spacing: 0.02em;
+}
+
+h1, h2{
+    color: #0D0D0D;
+    letter-spacing: 0.1em;
+    font-weight: bolder;
+}
+
+.photo1 {
+    position: relative;
+    left: 780px;
+    top: -33px;
+}
+
+.photo4 {
+    position: relative;
+    left: 40px;
+    top: 50px;
+    height: 50px;
+}
+
+.texte1 {
+    position: relative;
+    top: 220px;
+    left: 320px;
+    font-size: 80px;
+    z-index: 1;
+}
+
+.texte2 {
+    position: relative;
+    top: 90px;
+    left: 795px;
+    color: #0D0D0D;
+    letter-spacing: 0.1em;
+    font-size: 18px;
+    z-index: 1;
+}
+
+.texte3 {
+    position: relative;
+    top: -100px;
+    left: 1430px;
+    font-size: 14px;
+}
+
+.texte4 {
+    position: relative;
+    top: -80px;
+    left: 1432px;
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    font-weight: bolder;
+    color: darkgray;
+}
+
+.texte4:hover {
+    color: #0D0D0D;
+}
+
+.photo2 {
+    position: relative;
+    top: -133px;
+    left: 1380px;
+    height: 30px;
+}
+.texte5 {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.texte6 {
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: darkgray;
+    font-weight: lighter;
+}
+
+.bloc {
+    position: relative;
+    top: 175px;
+    left: 540px;
+}
+
+.person {
+    color: #EA4452;
+}
+
+.person:hover {
+    color: #0D0D0D;
+}
+
+.photo5 {
+    position: relative;
+    left: 195px;
+    top: 250px;
+    height: 335px;
+}
+
+.photo6 {
+    position: relative;
+    left: 270px;
+    top: 250px;
+    height: 335px;
+}
+
+.photo7 {
+    position: relative;
+    top: 325px;
+    left: 195px;
+    height: 724px;
+}
+
+.photo8 {
+    position: relative;
+    height: 335px;
+    top: 400px;
+    left: 195px;
+}
+
+.photo9 {
+    position: relative;
+    height: 335px;
+    top: 400px;
+    left: 270px;
+}
+
+.photo10 {
+    position: relative;
+    height: 200px;
+    top: 870px;
+    left: -700px;
+}
+
+.photo11 {
+    position: relative;
+    height: 300px;
+    top: 610px;
+    left: 870px;
+}
+
+.texte7 {
+    position: relative;
+    top: 440px;
+    left: -1178px;
+    text-align: right;
+    color: #0D0D0D;
+    font-size: 12px;
+}
+
+.texte8 {
+    position: relative;
+    top: 415px;
+    left: 688px;
+    color: #0D0D0D;
+    font-size: 12px;
+}
+
+.texte8:hover {
+    color: #EA4452;
+}
+
+.texte9 {
+    position: relative;
+    top: 395px;
+    left: 1058px;
+    color: #0D0D0D;
+    font-size: 12px;
+}
+
+.pied {
+    background-color: #F7F7F7;
+    height: 330px;
+    margin-top: 680px;
+}
+
+.photo3 {
+    height: 220px;
+    position: relative;
+    left: 615px;
+    top: 95px;
+}
+
